@@ -118,35 +118,43 @@
   }
 }
 
+
 @media (max-width: 767px) {
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 100%;
   }
 
+  
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
+  
   .u-section-1 .u-image-1 {
     height: 278px;
   }
 
+  
   .u-section-1 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
+  
   .u-section-1 .u-image-2 {
     height: 278px;
   }
 
+  
   .u-section-1 .u-container-layout-3 {
     padding-left: 10px;
     padding-right: 10px;
   }
 
+  
   .u-section-1 .u-image-3 {
     height: 278px;
   }
+  
 }
